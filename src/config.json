@@ -1,0 +1,28 @@
+{
+    "name": "dino",
+    "description": "About Dino",
+    "website":"https://webump.xyz/",
+    "twitter":"https://webump.xyz/",
+    "discord":"https://webump.xyz/",
+    "rpc": "https://sei-rpc.polkachu.com/",
+    "network": "pacific-1",
+    "collection_address":"sei1ujw6rmmjl0azez262enes3uuu7hhs8ylm44r2hj0z3qjwptswerqlfu9fl", 
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name":"og",
+            "allowlist":[
+                "sei15hv2re6gnk70dmjn8nyery8wzlaar945xtty76"
+            ] 
+        },
+        {
+            "name":"whitelist",
+            "allowlist":[
+                "sei15hv2re6gnk70dmjn8nyery8wzlaar945xtty76"
+            ] 
+        },
+        {
+            "name":"public"
+        }
+    ]
+}
